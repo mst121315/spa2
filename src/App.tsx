@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/spa2">
       <div className="app">
         <header className="header">
           <div className="header-content">
