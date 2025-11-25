@@ -2,6 +2,8 @@
 
 Это тестовый проект на React + TypeScript + Redux Toolkit для создания SPA со списком продуктов.
 
+ [https://mst121315.github.io/spa2/](https://mst121315.github.io/spa2/).
+
 ## Описание проекта
 
 Single Page Application для отображения, создания и управления карточками продуктов с использованием публичного API [FakeStoreAPI](https://fakestoreapi.com/docs).
